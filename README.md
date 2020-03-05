@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  Software Engineer - Information Systems Engineer - BBA (Major in Finance)
+  Systems Engineer at SAS | Cloud Engineer | MBA Candidate
 </p>
 
-<br />
+Latest version of this CV is hosted in OverLeaf.com
 
 ## Credits
 
